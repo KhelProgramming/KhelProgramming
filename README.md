@@ -1,5 +1,5 @@
 # 💫 About Me:
-Clean coding is a myth.<br>Currently learning JS and React<br>
+Clean coding is a myth.<br>Currently learning JS and React Native.<br>
 
 
 # 💻 Tech Stack:
